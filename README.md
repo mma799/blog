@@ -1,2 +1,2 @@
 # blog
- add blog remove blog edit blog
+ add blog remove blog
